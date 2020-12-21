@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>triniswap &#8211; TriniSwap</title>
+	<atom:link href="/wordpress/author/triniswap/feed/" rel="self" type="application/rss+xml" />
+	<link>/wordpress</link>
+	<description>Cryptocurrency for the people, by the people</description>
+	<lastBuildDate>Sun, 20 Dec 2020 18:11:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>/wordpress/wp-content/uploads/2020/12/cropped-triniswap-32x32.png</url>
+	<title>triniswap &#8211; TriniSwap</title>
+	<link>/wordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Adding TriniSwap Token</title>
+		<link>/wordpress/2020/12/20/adding-triniswap-token/</link>
+		
+		<dc:creator><![CDATA[triniswap]]></dc:creator>
+		<pubDate>Sun, 20 Dec 2020 17:57:24 +0000</pubDate>
+				<category><![CDATA[Tutorials]]></category>
+		<guid isPermaLink="false">/wordpress/?p=236</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid boomapps_vcrow mpc-row"><div class="wpb_column vc_column_container vc_col-sm-12 boomapps_vccolumn mpc-column" data-column-id="mpc_column-115fe0ab263a1d0"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<header class="postHeader">
+<h1 id="__docusaurus" class="postHeaderTitle">Adding TriniSwap Token</h1>
+</header>
+<article>
+<div>
+<h2><a id="adding-triniswap-token-to-metamask" class="anchor" aria-hidden="true"></a>Adding TriniSwap Token to Metamask</h2>
+<p>Open Metamask, and select &ldquo;Add Token&rdquo; from the bottom of the Metamask window.<br>
+<img src="https://ipfs.io/ipfs/QmeVvPFa9ihFfYMchn4dtwfJpvVfEPnudF9JE5tve7SdXX?filename=003-triniswaptoken-001.png" alt="MetaMaskExtension"></p>
+<p>Click &ldquo;Custom&rdquo; tab.</p>
+<p><img src="https://ipfs.io/ipfs/QmcdJ9Z3W5X6JiQvmLaeCRK7SCHS5H2BtLtjjtSEZR76a3?filename=003-triniswaptoken-002.png" alt="MetaMaskExtension"></p>
+<p>Type in the following information to add TriniSwap Token to your list</p>
+<p>Token Contract Address: 0x3e9aac491d04bb8930b4ca558fa027961e7ee416<br>
+Symbol: TRINI<br>
+Decimals: 18</p>
+<p><img src="https://ipfs.io/ipfs/QmSYZwm3SqUnu3dZoxyZwYvcv6zKFWRZpoPq5SXWr5eJJ2?filename=003-triniswaptoken-003.jpg" alt="MetaMaskExtension"></p>
+</div>
+</article>
+
+		</div>
+	</div>
+</div></div></div></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Connect to xDai Network</title>
+		<link>/wordpress/2020/12/20/connect-to-xdai-network/</link>
+		
+		<dc:creator><![CDATA[triniswap]]></dc:creator>
+		<pubDate>Sun, 20 Dec 2020 17:55:29 +0000</pubDate>
+				<category><![CDATA[Tutorials]]></category>
+		<guid isPermaLink="false">/wordpress/?p=233</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid boomapps_vcrow mpc-row"><div class="wpb_column vc_column_container vc_col-sm-12 boomapps_vccolumn mpc-column" data-column-id="mpc_column-215fe0ab263c466"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<header class="postHeader">
+<h1 id="__docusaurus" class="postHeaderTitle">Connect to xDai Network</h1>
+</header>
+<article>
+<div>
+<h2><a id="custom-rpc-settings" class="anchor" aria-hidden="true"></a>Custom RPC Settings</h2>
+<p>Open Metamask, and select &ldquo;Custom RPC&rdquo; from the Network Dropdown.</p>
+<p><img src="https://ipfs.io/ipfs/QmatGFtvhREbcAW28Z1RmmDFSjpgEMHG9SWP9LgiCGNyQq?filename=002-xdainetwork-001.png" alt="MetaMaskExtension"></p>
+<p>In the &ldquo;Custom RPC&rdquo; Settings, add in the xDai network details and click Save:</p>
+<p>Network Name: xDai<br>
+New RPC URL:&nbsp;<a href="https://rpc.xdaichain.com/">https://rpc.xdaichain.com/</a><br>
+Chain ID: 0x64 (100)<br>
+Symbol: xDai<br>
+Block Explorer URL:&nbsp;<a href="https://blockscout.com/poa/xdai">https://blockscout.com/poa/xdai</a></p>
+<p><img src="https://ipfs.io/ipfs/QmdVDptrQEcEnFRkchxF9Xjaz75nL2i7Whz7RqJ5fPov1c?filename=002-xdainetwork-002.jpg" alt="MetaMaskExtension"></p>
+</div>
+</article>
+
+		</div>
+	</div>
+</div></div></div></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Metamask Installation</title>
+		<link>/wordpress/2020/12/20/metamask-installation/</link>
+		
+		<dc:creator><![CDATA[triniswap]]></dc:creator>
+		<pubDate>Sun, 20 Dec 2020 17:51:31 +0000</pubDate>
+				<category><![CDATA[Tutorials]]></category>
+		<guid isPermaLink="false">/wordpress/?p=230</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid boomapps_vcrow mpc-row"><div class="wpb_column vc_column_container vc_col-sm-12 boomapps_vccolumn mpc-column" data-column-id="mpc_column-875fe0ab263edf2"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<header class="postHeader">
+<h1 id="__docusaurus" class="postHeaderTitle">Metamask Installation.</h1>
+</header>
+<article>
+<div>
+<h2><a id="1-download-the-metamask-extenstion" class="anchor" aria-hidden="true"></a>1) Download the Metamask Extenstion</h2>
+<p>Go to&nbsp;<a href="https://metamask.io/">https://metamask.io/</a>&nbsp;&amp; click Download in the topright hand corner. Then select your browser type.</p>
+<p><img src="https://ipfs.io/ipfs/QmbfLGdqhE45jZMVa4oNuDTugJLUdU8iTLv8KaMk6aKoCR?filename=001-installingmetamask-001.png" alt="DownloadMetaMask"></p>
+<h2><a id="2-installing-metamask-extension" class="anchor" aria-hidden="true"></a>2) Installing Metamask Extension.</h2>
+<p>Add Metamask to your Extensions.</p>
+<p><img src="https://ipfs.io/ipfs/QmU7EVhMdJH7qteWRTb86npGqEEBAvuWuBiKvNP22vkjpe?filename=001-installingmetamask-002.png" alt="MetaMaskExtension"></p>
+<p>Click Get Started</p>
+<p><img src="https://ipfs.io/ipfs/QmQqPUcoyTYq9EUpPLw8ZCFhM26VAq3C5RUFTrYp9WZbKM?filename=001-installingmetamask-003.png" alt="MetaMaskExtension"></p>
+<h2><a id="3-obtaining-your-metamask-seed-phrase" class="anchor" aria-hidden="true"></a>3) Obtaining your Metamask Seed Phrase</h2>
+<p>Click on &ldquo;Create a Wallet&rdquo; to generate your seedphrase, if you already have one, click Import Wallet.</p>
+<p><img src="https://ipfs.io/ipfs/QmRvwq6jTzyFRLCRYg1k5f7HWEm7BFKKHHHQa55YsgPLR8?filename=001-installingmetamask-004.webp" alt="GetStarted"></p>
+<p>If you would like to help Metamask improve their application click &ldquo;I agree&rdquo;. MetaMask will never collect any of your private keys, your funds are in your control.<br>
+If not, click &ldquo;No Thanks&rdquo;.</p>
+<p><img src="https://ipfs.io/ipfs/QmNcUipuMbEnAW9M9KjVL9w3jgCicFQECtA9KqJ7mgpUyw?filename=001-installingmetamask-006.webp" alt="GetStarted"></p>
+<p>Insert your password then click &ldquo;Create&rdquo;</p>
+<p><img src="https://ipfs.io/ipfs/QmRRwo4q58y8C7whRv6C65HHnMaPBSJHh6LggTh5TkZmnk?filename=001-installingmetamask-007.webp" alt="GetStarted"></p>
+<p>Use this SeedPhrase to recover your Metamask Vault.<br>
+Click &ldquo;Save Seed Words as File&rdquo; and copy the &ldquo;MetaMask Seed Words&rdquo; file that is downloaded to a safe place. Click &ldquo;I&rsquo;ve Copied It Somewhere Safe&rdquo; once your seed words file has been secured.</p>
+<h2><a id="4-confirming-your-metamask-seed-phrase" class="anchor" aria-hidden="true"></a>4) Confirming your Metamask Seed Phrase</h2>
+<p><img src="https://ipfs.io/ipfs/QmeAyd3KcNnrqeCuuG5hCA84JS3Rf3ucjKUg8cRRr1FtKX?filename=001-installingmetamask-005.webp" alt="GetStarted"></p>
+<p>After you have written these 12 words down, hit &ldquo;Next&rdquo;.<br>
+Cick the words from the list in the exact order that they appeared and they will appear in the clear box above;</p>
+<p><img src="https://ipfs.io/ipfs/QmdkSxAUa2owkcLSbEBEpW9cEuCudTDLe4BdoCfDiXY28o?filename=001-installingmetamask-008.webp" alt="GetStarted"></p>
+<p>Congratulations!<br>
+That&rsquo;s all there is to it. You have now successfully installed MetaMask and set up your first wallet and are pretty much ready to start using the wallet on some dApps.<br>
+Go ahead and click &ldquo;All Done&rdquo;. This should bring you to your MetaMask wallet;</p>
+<p><img src="https://ipfs.io/ipfs/QmQikevMVZ5rkwshuVUtSVwcHx4eUjuwLLKtrh7ybAUuwq?filename=001-installingmetamask-010.webp" alt="GetStarted"></p>
+</div>
+</article>
+
+		</div>
+	</div>
+</div></div></div></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>TriniSwap Official Launch (Revised)</title>
+		<link>/wordpress/2020/12/19/triniswap-official-launch/</link>
+		
+		<dc:creator><![CDATA[triniswap]]></dc:creator>
+		<pubDate>Sat, 19 Dec 2020 21:27:34 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/wordpress/?p=151</guid>
+
+					<description><![CDATA[Introducing Trinidad &#38; Tobago&#8217;s first open source decentralized finance project called TriniSwap (TRINI). The goal of TriniSwap is to bring adoption and seamless access to cryptocurrency trading and investing for]]></description>
+										<content:encoded><![CDATA[
+<p>Introducing Trinidad &amp; Tobago&#8217;s first open source decentralized finance project called TriniSwap (TRINI). The goal of TriniSwap is to bring adoption and seamless access to cryptocurrency trading and investing for the average person by developing decentralized apps and smart contracts. If you are new to cryptocurrency, to get started visit.&nbsp;<a href="http://docs.triniswap.com/">http://docs.triniswap.com/</a></p>
+
+
+
+<p>Say goodbye to inflated crypto prices, high transaction fees and centralized companies that do not give you ownership of your accounts private keys. TriniSwap will enable users to trade cryptocurrencies while being in control of their own funds, our token will give users ownership of the the liquidity pool. Liquidity Providers get 0.3% of every transaction. TRINI token also allows users to partake in the governance of the project. Our main goal is to build a sustainable ecosystem that is fast and reliable for immutable transactions and payments at anytime, anywhere, for everyone.&nbsp;</p>
+
+
+
+<p>TriniSwap currently consists of a decentralized exchange and token bridge presently. For our exchange instead of launching our own Solidity Contract, we decided to use an already existing smart contract called Honeyswap (forked from Unsnap Protocol). Our reasoning for going this direction is to prevent potential bugs and liquidity attacks in the genesis stage of building a community, ensuring that our users funds are always secured from malicious actors. We chose to migrate from Ethereum Mainnet to DAI Network Side chain. By doing so, we drastically increase transaction speeds, and reduces the transaction costs to less than $.001 USD. This will enable us to perform micro transactions, scaling the token&#8217;s usability. Due to high gas fees, our vision will not be possible at this current time on Ethereum Mainnet, if all goes well with Eth 2.0, we would be happy to bridge the tokens back to its original homeland. You can also bridge your erc20 assets from our token bridge from Ethereum Mainnet to xDAI Network and vice versa.</p>
+
+
+
+<p>Currently, we are also using a decentralized protocol to broadcast our website to the world, by using IPFS for our hosting, it serves to protect us in the event our official .com domain being blocked, banned or taken down. Cryptocurrency has no apparent laws that govern its creation and usage in Trinidad and Tobago. As we attempt to disrupt the norms of traditional banking, trading and investments, our dapps are open source with documentation. Our smart contracts are immutable and will persist indefinitely. If desired, anyone can have a look at our repositories.</p>
+
+
+
+<p>Join us and be a part of T&amp;T History in the cryptocurrency space.<br>For more information you can post your comments below, or Join our Discord, Telegram and social media pages. Crowdsale date to be finalized and announced soon.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
