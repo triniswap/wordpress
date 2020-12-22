@@ -11,25 +11,11 @@
 	<atom:link href="/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/wordpress</link>
 	<description>Cryptocurrency for the people, by the people</description>
-	<lastBuildDate>Mon, 21 Dec 2020 17:04:01 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 22 Dec 2020 17:32:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.6</generator>
-	<item>
-		<title>
-		Comment on TriniSwap : Official Launch by triniswap		</title>
-		<link>/wordpress/2020/12/19/triniswap-official-launch/#comment-2</link>
-
-		<dc:creator><![CDATA[triniswap]]></dc:creator>
-		<pubDate>Sun, 20 Dec 2020 02:16:45 +0000</pubDate>
-		<guid isPermaLink="false">/wordpress/?p=151#comment-2</guid>
-
-					<description><![CDATA[test]]></description>
-			<content:encoded><![CDATA[<p>test</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>
