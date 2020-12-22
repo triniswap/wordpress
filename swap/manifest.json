@@ -1,0 +1,15 @@
+{
+  "short_name": "TriniSwap",
+  "name": "TriniSwap",
+  "icons": [
+      {
+        "src": "favicon.ico",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/x-icon"
+      }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#B31B1C",
+  "background_color": "#fff"
+}
