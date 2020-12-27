@@ -1,9 +1,9 @@
 {
-  "short_name": "TriniSwap Info",
-  "name": "View statistics for TriniSwap exchanges.",
+  "short_name": "Honeyswap Info",
+  "name": "View statistics for Honeyswap exchanges.",
   "icons": [
     {
-      "src": "logo.png",
+      "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
