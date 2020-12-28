@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "./static/js/main.1a4cc3b4.chunk.js",
-    "main.js.map": "./static/js/main.1a4cc3b4.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.2b6a6acd.js",
-    "runtime-main.js.map": "./static/js/runtime-main.2b6a6acd.js.map",
-    "static/js/2.ef169675.chunk.js": "./static/js/2.ef169675.chunk.js",
-    "static/js/2.ef169675.chunk.js.map": "./static/js/2.ef169675.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.e93165d4d5ad8fb31a833412f0e876b4.js": "./precache-manifest.e93165d4d5ad8fb31a833412f0e876b4.js",
-    "service-worker.js": "./service-worker.js",
-    "static/js/2.ef169675.chunk.js.LICENSE.txt": "./static/js/2.ef169675.chunk.js.LICENSE.txt",
-    "static/media/eth.png": "./static/media/eth.73dabb37.png"
+    "main.js": "/wordpress/triniswap-analytics/static/js/main.3f648268.chunk.js",
+    "main.js.map": "/wordpress/triniswap-analytics/static/js/main.3f648268.chunk.js.map",
+    "runtime-main.js": "/wordpress/triniswap-analytics/static/js/runtime-main.b23497ba.js",
+    "runtime-main.js.map": "/wordpress/triniswap-analytics/static/js/runtime-main.b23497ba.js.map",
+    "static/js/2.6c87a2cc.chunk.js": "/wordpress/triniswap-analytics/static/js/2.6c87a2cc.chunk.js",
+    "static/js/2.6c87a2cc.chunk.js.map": "/wordpress/triniswap-analytics/static/js/2.6c87a2cc.chunk.js.map",
+    "index.html": "/wordpress/triniswap-analytics/index.html",
+    "precache-manifest.97606aea328121096a38f0db80bafec6.js": "/wordpress/triniswap-analytics/precache-manifest.97606aea328121096a38f0db80bafec6.js",
+    "service-worker.js": "/wordpress/triniswap-analytics/service-worker.js",
+    "static/js/2.6c87a2cc.chunk.js.LICENSE.txt": "/wordpress/triniswap-analytics/static/js/2.6c87a2cc.chunk.js.LICENSE.txt",
+    "static/media/eth.png": "/wordpress/triniswap-analytics/static/media/eth.73dabb37.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b6a6acd.js",
-    "static/js/2.ef169675.chunk.js",
-    "static/js/main.1a4cc3b4.chunk.js"
+    "static/js/runtime-main.b23497ba.js",
+    "static/js/2.6c87a2cc.chunk.js",
+    "static/js/main.3f648268.chunk.js"
   ]
 }
