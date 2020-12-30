@@ -1,0 +1,319 @@
+
+@media screen and (min-width: 1000px) {
+
+	.width1000 .article-double-side .item-links a:last-child {
+		display: none;
+	}
+
+	.boxed.active.width1000 {
+		width: 1000px;
+	}
+
+	.boxed.active.width1000 .wrapper {
+		width: 960px;
+	}
+
+	.boxed.active.width1000 .header #main-menu .wrapper > ul > li > a {
+		font-size: 13px;
+		padding: 14px 11px;
+	}
+
+	.boxed.active.width1000 .header #top-sub-menu ul li a {
+		font-size: 12px;
+	}
+
+	.boxed.active.width1000 .header #main-menu .wrapper > ul > li a i {
+		font-size: 8px;
+	}
+
+	/*.boxed.active.width1000 .content-main.with-sidebar-both {
+		width: 640px;
+	}*/
+
+	.boxed.active.width1000 .content-main.with-sidebar {
+		width: 770px;
+	}
+
+	.boxed.active.width1000 .content-main.with-sidebar-both {
+		width: 580px;
+	}
+
+	.boxed.active.width1000 #main-menu.thisisfixed {
+		height: 56px;
+	}
+
+	.boxed.active.width1000 .strict-block .block-title h2 {
+		font-size: 17px;
+	}
+
+	.boxed.active.width1000 #sidebar .widget,
+	.boxed.active.width1000 #sidebar {
+		width: 160px;
+	}
+
+	.boxed.active.width1000 #sidebar .widget > h3,
+	.boxed.active.width1000 .strict-block .block-title h2 {
+		font-size: 17px;
+	}
+
+	.boxed.active.width1000 .blog-style .item .item-content h3 {
+		font-size: 20px;
+	}
+
+	.boxed.active.width1000 .footer .widget > h3 {
+		font-size: 22px;
+	}
+
+	.boxed.active.width1000 .tagcloud a,
+	.boxed.active.width1000 .tag-cloud a {
+		font-size: 12px!important;
+	}
+
+	.boxed.active.width1000 .ls-wp-container,
+	.boxed.active.width1000 #layerslider {
+		width: 100%!important;
+		height: auto!important;
+	}
+
+
+	.width1000 #sidebar .widget .widget-top-b {
+		display: none;
+	}
+
+	.width1000 #sidebar .w-news-list {
+		padding: 20px 0 0 0;
+		background: transparent;
+	}
+
+	.width1000 #sidebar .w-news-list h4 {
+		font-size: 14px!important;
+		font-weight: 600;
+	}
+
+	.width1000 #sidebar .w-news-list p,
+	.width1000 #sidebar .w-news-list .item-foot {
+		display: none;
+	}
+
+	.width1000 #sidebar .widget {
+		display: block;
+		width: 160px;
+		font-size: 14px;
+		margin-bottom: 15px;
+	}
+
+	.width1000 #sidebar .widget p {
+		font-size: 14px;
+	}
+
+	.width1000 #sidebar .widget > div {
+		margin-top: 15px;
+	}
+
+	.boxed.active.width1000 #sidebar .mini-sidebar .widget > h3 {
+		display: block;
+		padding: 10px 15px;
+		color: #fff;
+		background: #2c3e50;
+		font-size: 18px;
+		font-weight: 600;
+	}
+
+	.width1000 #sidebar .side-banner {
+		padding: 0px!important;
+		background: transparent!important;
+	}
+
+	.width1000 #sidebar .widget > form,
+	.width1000 #sidebar .widget > ul,
+	.width1000 #sidebar .widget > div {
+		margin-top: 0px;
+	}
+
+	.width1000 #sidebar .widget > form,
+	.width1000 #sidebar .widget > ul,
+	.width1000 #sidebar .widget > div {
+		display: block;
+		padding: 18px 20px;
+		background: #f5f5f5;
+	}
+
+	.width1000 #sidebar .widget .menu-quadrum-main-menu-container ul li,
+	.width1000 #sidebar .widget > ul li {
+		margin-top: 12px;
+		line-height: 130%;
+	}
+
+	.width1000 #sidebar .widget .menu-quadrum-main-menu-container > ul > li:first-child,
+	.width1000 #sidebar .widget > ul > li:first-child {
+		margin-top: 0px;
+	}
+
+	.width1000 #sidebar .tagcloud > a {
+		font-size: 12px!important;
+		line-height: 14px;
+		padding-top: 7px;
+		padding-bottom: 7px;
+	}
+
+	.width1000 #sidebar .screen-reader-text {
+		display: none;
+	}
+
+	.width1000 #sidebar input.search {
+		width: auto;
+		display: block;
+		margin-bottom: 10px;
+		width: 100%;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+
+	.width1000 #sidebar .widget .w-news-list .item .item-photo {
+		float: none;
+		margin-bottom: 10px;
+		width: 100%;
+		height: auto;
+	}
+
+	.width1000 #sidebar .item-foot a {
+		margin-right: 0px!important;
+		margin-bottom: 5px;
+	}
+
+	.width1000 #sidebar .widget-contact li strong,
+	.width1000 #sidebar .widget-contact li span,
+	.width1000 #sidebar .widget .w-comment-list .item .item-content,
+	.width1000 #sidebar .widget .w-news-list .item .item-content {
+		margin-left: 0px;
+	}
+
+	.width1000 #sidebar .widget .subscribe-feed p {
+		padding: 0px;
+	}
+
+	.width1000 #sidebar .widget-contact li i.fa,
+	.width1000 #sidebar .widget .w-comment-list .item .item-photo {
+		display: none;
+	}
+
+	.width1000 #sidebar .widget .w-photo-gallery .item .item-photos img {
+		width: 48.2%;
+	}
+
+	.width1000 #sidebar .widget .w-photo-gallery .item .item-photos a:nth-child(2n) img {
+		margin-right: 0px;
+	}
+
+	.width1000 #sidebar #wp-calendar tbody td {
+		padding: 6px 3px;
+		font-size: 10px;
+	}
+
+	.width1000 #sidebar #wp-calendar tfoot {
+		/*background: #fff;*/
+		width: 100%;
+		border-top: 1px dotted #ccc;
+	}
+
+	.width1000 #sidebar #wp-calendar tfoot td {
+		padding-bottom: 10px;
+	}
+
+	.width1000 #sidebar #wp-calendar tfoot a {
+		color: #232323;
+		font-weight: bold;
+	}
+
+	.width1000 #sidebar #wp-calendar tfoot #prev {
+		padding-top: 10px;
+		position: relative;
+		display: table-cell;
+		top: auto;
+		left: auto;
+		margin-bottom: 20px;
+	}
+
+	.width1000 #sidebar #wp-calendar tfoot #next {
+		padding-top: 10px;
+		position: relative;
+		display: table-cell;
+		top: auto;
+		left: auto;
+		margin-bottom: 20px;
+	}
+
+	.width1000 .item-block-2 .item-block {
+		background-size: cover!important;
+		box-shadow: 0 1px 0 1px rgba(0,0,0,0.02);
+	}
+
+	.width1000 .item-block .item-content .item-author .author-name {
+		font-size: 14px;
+	}
+
+
+	.width1000 .header-advert {
+		width: 50%;
+	}
+
+	.width1000 .header-advert img {
+		max-width: 100%;
+	}
+
+	.boxed.active.width1000 .wrapper {
+		width: 960px!important;
+	}
+
+}
+
+
+@media only screen and (max-width: 1255px) {
+
+	.active.boxed {
+		max-width: 100%;
+	}
+
+	.wrapper {
+		width: 99%;
+	}
+
+	.header #main-menu .wrapper > ul > li > a {
+		font-size: 13px;
+		padding: 14px 11px;
+	}
+
+	.header #top-sub-menu ul li a {
+		font-size: 12px;
+	}
+
+	.header #main-menu .wrapper > ul > li a i {
+		font-size: 8px;
+	}
+
+	.content-main.with-sidebar-both,
+	.content-main.with-sidebar {
+		width: 650px;
+	}
+
+	.content .mini-sidebar {
+		display: none;
+	}
+
+	#top-sub-menu > .wrapper,
+	#main-menu .subset > .wrapper,
+	#main-menu > .wrapper,
+	.header > .wrapper,
+	.content .wrapper {
+		width: 976px;
+		max-width: 99%;
+	}
+
+	.boxed.active .header #top-sub-menu,
+	.boxed.active .header #main-menu {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+
+}
