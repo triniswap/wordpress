@@ -12,7 +12,7 @@
 	<atom:link href="/wordpress/category/blog/feed/" rel="self" type="application/rss+xml" />
 	<link>/wordpress</link>
 	<description>Cryptocurrency for the people, by the people</description>
-	<lastBuildDate>Mon, 28 Dec 2020 19:47:03 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Jan 2021 22:30:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>TriniSwap : Official Launch</title>
-		<link>/wordpress/2020/12/22/triniswap-official-launch/</link>
+		<link>/wordpress/2020/12/22/official-launch/</link>
 		
 		<dc:creator><![CDATA[triniswap]]></dc:creator>
 		<pubDate>Tue, 22 Dec 2020 01:29:58 +0000</pubDate>
